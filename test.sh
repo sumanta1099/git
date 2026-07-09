@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Enter Your Name"
-echo "this is stage branch"
+echo "this is main branch"
